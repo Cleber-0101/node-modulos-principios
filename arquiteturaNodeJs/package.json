@@ -1,0 +1,15 @@
+{
+  "name": "engenheiro-node",
+  "version": "1.0.0",
+  "description": "Aplicando conceitos de leitura e escrita de arquivos",
+  "license": "ISC",
+  "author": "Cleber Batista",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
