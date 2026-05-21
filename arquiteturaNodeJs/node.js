@@ -1,6 +1,5 @@
 let {readFile, writeFile} = require('fs')
 
-
 // lendo o arquivo 
 readFile("arquivo.txt", "utf-8", (error, texto) =>{
     if(error){
